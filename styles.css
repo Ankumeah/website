@@ -1,0 +1,13 @@
+:root {
+  --bg: #000000;
+  --fg: #ffffff;
+}
+
+:root {
+  background-color: var(--bg);
+  color: var(--fg);
+}
+
+h1 {
+  text-align: center;
+}
